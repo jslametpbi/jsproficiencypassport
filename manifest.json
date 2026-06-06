@@ -1,0 +1,10 @@
+{
+  "name": "JS Proficiency Passport AI",
+  "short_name": "JSPP-AI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071124",
+  "theme_color": "#0b1733",
+  "description": "Secure English proficiency diagnosis, preparation, testing, scoring, and certification platform.",
+  "icons": []
+}
