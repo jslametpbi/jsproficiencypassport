@@ -1,9 +1,0 @@
-{
-  "name": "JS Proficiency Passport AI",
-  "short_name": "Proficiency Passport",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#060d1d",
-  "theme_color": "#d7ab4d",
-  "description": "AI-integrated English proficiency diagnosis, practice, secure testing, score reporting, QR verification, and certification platform."
-}
